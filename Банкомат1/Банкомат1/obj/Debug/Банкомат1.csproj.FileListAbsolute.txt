@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\bin\Debug\Банкомат1.exe.config
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\bin\Debug\Банкомат1.exe
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\bin\Debug\Банкомат1.pdb
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\obj\Debug\Банкомат1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\obj\Debug\Банкомат1.Банкомат.resources
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\obj\Debug\Банкомат1.Properties.Resources.resources
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\obj\Debug\Банкомат1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\obj\Debug\Банкомат1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\obj\Debug\Банкомат1.exe
+C:\Users\HP\source\repos\Банкомат1\Банкомат1\obj\Debug\Банкомат1.pdb
